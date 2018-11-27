@@ -1,0 +1,2 @@
+http://localhost:59523/WebService/Osoby.asmx
+http://localhost:59523/WebService/Osoby.asmx?WSDL

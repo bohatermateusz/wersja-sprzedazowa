@@ -1,0 +1,105 @@
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll.config
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\WcfService1.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\bin\EntityFramework.SqlServer.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\WcfService1\obj\Debug\WcfService1.pdb

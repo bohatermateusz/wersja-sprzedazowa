@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BazaDanychModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Uzytkownik">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Login" Type="text" />
+    <Property Name="Imie" Type="text" />
+    <Property Name="Nazwisko" Type="text" />
+    <Property Name="Jednostka" Type="text" />
+  </EntityType>
+  <EntityType Name="Zdarzenia">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="nazwa" Type="text" />
+    <Property Name="data" Type="date" />
+    <Property Name="opis" Type="text" />
+    <Property Name="sprzedaż" Type="int" />
+  </EntityType>
+  <EntityContainer Name="BazaDanychModelStoreContainer">
+    <EntitySet Name="Uzytkownik" EntityType="Self.Uzytkownik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Zdarzenia" EntityType="Self.Zdarzenia" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

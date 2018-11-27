@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="creatorModelStoreContainer" CdmEntityContainer="creatorEntities">
+    <EntitySetMapping Name="Zdarzenia">
+      <EntityTypeMapping TypeName="creatorModel.Zdarzenia">
+        <MappingFragment StoreEntitySet="Zdarzenia">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nazwa" ColumnName="nazwa" />
+          <ScalarProperty Name="data" ColumnName="data" />
+          <ScalarProperty Name="opis" ColumnName="opis" />
+          <ScalarProperty Name="strata" ColumnName="strata" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

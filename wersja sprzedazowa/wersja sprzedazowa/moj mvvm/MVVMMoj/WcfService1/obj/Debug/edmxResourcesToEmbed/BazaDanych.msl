@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BazaDanychModelStoreContainer" CdmEntityContainer="creatorEntities2">
+    <EntitySetMapping Name="Uzytkownik">
+      <EntityTypeMapping TypeName="BazaDanychModel.Uzytkownik">
+        <MappingFragment StoreEntitySet="Uzytkownik">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Login" ColumnName="Login" />
+          <ScalarProperty Name="Imie" ColumnName="Imie" />
+          <ScalarProperty Name="Nazwisko" ColumnName="Nazwisko" />
+          <ScalarProperty Name="Jednostka" ColumnName="Jednostka" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Zdarzenia">
+      <EntityTypeMapping TypeName="BazaDanychModel.Zdarzenia">
+        <MappingFragment StoreEntitySet="Zdarzenia">
+          <ScalarProperty Name="id" ColumnName="id" />
+          <ScalarProperty Name="nazwa" ColumnName="nazwa" />
+          <ScalarProperty Name="data" ColumnName="data" />
+          <ScalarProperty Name="opis" ColumnName="opis" />
+          <ScalarProperty Name="sprzedaż" ColumnName="sprzedaż" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

@@ -1,0 +1,10 @@
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\bin\UslugiSieciowe.dll.config
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\bin\UslugiSieciowe.dll
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\bin\UslugiSieciowe.pdb
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\obj\Debug\UslugiSieciowe.csprojResolveAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\obj\Debug\UslugiSieciowe.dll
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\obj\Debug\UslugiSieciowe.pdb
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\bin\EntityFramework.dll
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\bin\EntityFramework.SqlServer.dll
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\bin\EntityFramework.xml
+C:\Users\m.sutkowski\Desktop\Usluga Sieciowa\UslugiSieciowe2\UslugiSieciowe\UslugiSieciowe\bin\EntityFramework.SqlServer.xml

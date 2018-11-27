@@ -1,0 +1,50 @@
+﻿<Window x:Class="MVVMMoj.Views.ZdarzeniaOperacyjne"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVMMoj.Views"
+        xmlns:lvc="clr-namespace:LiveCharts.Wpf;assembly=LiveCharts.Wpf"
+        xmlns:vm="clr-namespace:MVVMMoj.ViewModels"
+        mc:Ignorable="d"
+        Title="Wolumen Sprzedaży" Height="450" Width="800">
+    <Window.Resources>
+
+
+
+    </Window.Resources>
+    <Grid>
+        <Grid Margin="0,1,3,167" HorizontalAlignment="Right" Width="422">
+            <DataGrid ItemsSource="{Binding WyciagnieteDaneZBazyDanychZdarzeniaOperacyjne}" AutoGenerateColumns="False" Margin="0,0,10,10" HorizontalAlignment="Right" Width="402">
+                <DataGrid.Columns>
+
+                    <DataGridTextColumn Header="Id" Binding="{Binding id}"/>
+                    <DataGridTextColumn Header="Nazwa sprzedawcy" Binding="{Binding nazwa}"/>
+                    <DataGridTemplateColumn Header="Data" >
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <DatePicker SelectedDate="{Binding data}"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn Header="Opis" Binding="{Binding opis}"/>
+                    <DataGridTextColumn Header="Sprzedaż" Binding="{Binding sprzedaż}"/>
+
+                </DataGrid.Columns>
+            </DataGrid>
+
+        </Grid>
+
+        <Grid Margin="10,0,165,10" Height="152" VerticalAlignment="Bottom">
+            <Button Content="Anuluj" Margin="0,0,26,53" Height="33" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="204"/>
+            <Button Command="{Binding Zapisz}" Margin="0,0,337,53" Height="33" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="227">Zapisz</Button>
+        </Grid>
+        <Grid Margin="2,1,454,167">
+            <lvc:CartesianChart x:Name="Wykres" Margin="0,0,10,0"/>
+        </Grid>
+        <Grid Margin="653,0,3,7" Height="105" VerticalAlignment="Bottom">
+            <Label Content="{Binding InformacjeOUzytkowniku}" RenderTransformOrigin="0.846,0.391" FontSize="10" FontFamily="PKO Bank Polski Rg" Height="105" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="136"/>
+        </Grid>
+
+    </Grid>
+</Window>

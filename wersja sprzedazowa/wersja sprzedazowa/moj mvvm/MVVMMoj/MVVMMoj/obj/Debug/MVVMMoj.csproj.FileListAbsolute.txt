@@ -1,0 +1,264 @@
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\kopia zapasowa 11.07.2018 — kopia\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\30.07 kopia zapasowa\moj mvvm 25.07\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja robocza\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\ipi\Aplikacje ćwiczebne\MVVM\Z YouTube\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojAssemblyReference.cache
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.cache
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CopyComplete
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\m.sutkowski\Desktop\praca dyp\PracaDyplomowa\final\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe.config
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.exe
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\MVVMMoj.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MainWindow.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj_MarkupCompile.lref
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\App.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\NoweOkno.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\Views\ZdarzeniaOperacyjne.baml
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.g.resources
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.Properties.Resources.resources
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.exe
+C:\Users\lenovo\Desktop\praca dyplomowa ipi pan\praca dyp 2\wersja sprzedazowa 06.09\wersja sprzedazowa — robocza\wersja sprzedazowa\moj mvvm\MVVMMoj\MVVMMoj\obj\Debug\MVVMMoj.pdb

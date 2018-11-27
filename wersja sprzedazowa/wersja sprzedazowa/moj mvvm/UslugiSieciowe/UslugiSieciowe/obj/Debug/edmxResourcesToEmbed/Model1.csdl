@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="creatorModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Zdarzenia">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="Int32" Nullable="false" />
+    <Property Name="nazwa" Type="String" MaxLength="25" FixedLength="true" Unicode="false" />
+    <Property Name="data" Type="DateTime" Precision="0" />
+    <Property Name="opis" Type="String" MaxLength="50" FixedLength="true" Unicode="false" />
+    <Property Name="strata" Type="Single" />
+  </EntityType>
+  <EntityContainer Name="creatorEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Zdarzenia" EntityType="Self.Zdarzenia" />
+  </EntityContainer>
+</Schema>

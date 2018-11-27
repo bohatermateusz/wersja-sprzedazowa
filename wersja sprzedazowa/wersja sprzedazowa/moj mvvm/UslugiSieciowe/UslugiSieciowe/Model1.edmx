@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="creatorModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Zdarzenia">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="int" Nullable="false" />
+          <Property Name="nazwa" Type="char" MaxLength="25" />
+          <Property Name="data" Type="date" />
+          <Property Name="opis" Type="char" MaxLength="50" />
+          <Property Name="strata" Type="real" />
+        </EntityType>
+        <EntityContainer Name="creatorModelStoreContainer">
+          <EntitySet Name="Zdarzenia" EntityType="Self.Zdarzenia" Schema="crdb" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="creatorModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Zdarzenia">
+          <Key>
+            <PropertyRef Name="id" />
+          </Key>
+          <Property Name="id" Type="Int32" Nullable="false" />
+          <Property Name="nazwa" Type="String" MaxLength="25" FixedLength="true" Unicode="false" />
+          <Property Name="data" Type="DateTime" Precision="0" />
+          <Property Name="opis" Type="String" MaxLength="50" FixedLength="true" Unicode="false" />
+          <Property Name="strata" Type="Single" />
+        </EntityType>
+        <EntityContainer Name="creatorEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Zdarzenia" EntityType="Self.Zdarzenia" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="creatorModelStoreContainer" CdmEntityContainer="creatorEntities">
+          <EntitySetMapping Name="Zdarzenia">
+            <EntityTypeMapping TypeName="creatorModel.Zdarzenia">
+              <MappingFragment StoreEntitySet="Zdarzenia">
+                <ScalarProperty Name="id" ColumnName="id" />
+                <ScalarProperty Name="nazwa" ColumnName="nazwa" />
+                <ScalarProperty Name="data" ColumnName="data" />
+                <ScalarProperty Name="opis" ColumnName="opis" />
+                <ScalarProperty Name="strata" ColumnName="strata" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
